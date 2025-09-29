@@ -1,3 +1,5 @@
+# I designed a HW from scratch for a course for extra credit
+
 # HW-#1: Gaming Dashboard: Linking Charts and Adding Interactivity
 
 The goal of this extra credit assignment is to give you practice building linked visualizations using D3.js. By completing this assignment, you will learn how to:
